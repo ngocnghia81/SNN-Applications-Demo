@@ -145,8 +145,8 @@ Các biểu đồ sẽ được lưu trong thư mục `docs/images/flow`.
 
 ## Tác giả
 
--   Tên tác giả
--   Email: your.email@example.com
+-   Nguyễn Ngọc Nghĩa
+-   Email: ngocnghia2004nn@gmail.com
 
 ## Giấy phép
 
