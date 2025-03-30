@@ -1,0 +1,27 @@
+{
+    "model": {
+        "snn_model_path": "models/mnist/SNNMLP_best.pt",
+        "yolo_model_path": "models/traffic/yolov5su.pt",
+        "use_gpu": true
+    },
+    "camera": {
+        "width": 640,
+        "height": 480,
+        "fps": 30
+    },
+    "detection": {
+        "confidence_threshold": 0.4,
+        "speed_limit": 30
+    },
+    "display": {
+        "show_stats": true,
+        "show_tracking": true,
+        "show_violations": true,
+        "show_neuron_activity": true
+    },
+    "paths": {
+        "captures_dir": "data/captured/original",
+        "processed_dir": "data/captured/processed",
+        "results_dir": "data/results"
+    }
+}

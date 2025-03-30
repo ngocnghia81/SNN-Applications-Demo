@@ -1,0 +1,4 @@
+Top kết quả cho ảnh chụp:
+1. Dự đoán: 2, Độ tin cậy: 100.00%, Phương pháp: gray_otsu
+2. Dự đoán: 3, Độ tin cậy: 100.00%, Phương pháp: histeq_otsu
+3. Dự đoán: 2, Độ tin cậy: 100.00%, Phương pháp: histeq_adaptive
